@@ -176,7 +176,7 @@ header p {
     top: 0;
     clip-path: circle(0);
     z-index: 1;
-    transition: 0.5s cubic-bezier(.5, 0, 0, .5);
+    transition: 0.6s cubic-bezier(.5, 0, 0, .5);
 }
 
 .label-link:hover::after {
