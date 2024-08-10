@@ -143,8 +143,9 @@ header p {
     margin-block-start: 1.5rem;
 }
 
-.socials {
+ul.socials {
     margin-block-start: 1rem;
+    --gap: 1rem;
 }
 
 .label-link {
